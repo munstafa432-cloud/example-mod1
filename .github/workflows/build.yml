@@ -1,4 +1,4 @@
-Entername: Build Geode Mod
+name: Build Geode Mod
 on: [push, pull_request]
 
 jobs:
