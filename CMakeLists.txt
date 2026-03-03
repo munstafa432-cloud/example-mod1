@@ -1,4 +1,13 @@
 cmake_minimum_required(VERSION 3.13)
+
+# This line tells the computer where to find Geode
+list(APPEND CMAKE_PREFIX_PATH $ENV{GEODE_SDK})
+
 project(MyMod)
+
 find_package(Geode REQUIRED)
-add_geode_mod(${PROJECT_NAME} SOURCES main.cpp)
+
+add_geode_mod(
+    ${PROJECT_NAME}
+    SOURCES main.cpp
+)
