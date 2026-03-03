@@ -3,14 +3,13 @@
 	"gd": {
 		"android": "2.2074"
 	},
-	"id": "player.startermod",
+	"id": "user.testmod",
 	"version": "v1.0.0",
-	"name": "My First Hack",
-	"developer": "YourName",
-	"description": "Trajectory and Hacks Template",
+	"name": "My First Mod",
+	"developer": "Player",
+	"description": "32-bit Mod",
 	"resources": {
 		"fonts": {},
 		"sprites": []
 	}
 }
-
