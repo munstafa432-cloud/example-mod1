@@ -1,0 +1,16 @@
+{
+	"geode": "3.0.0-beta.1",
+	"gd": {
+		"android": "2.2074"
+	},
+	"id": "player.startermod",
+	"version": "v1.0.0",
+	"name": "My First Hack",
+	"developer": "YourName",
+	"description": "Trajectory and Hacks Template",
+	"resources": {
+		"fonts": {},
+		"sprites": []
+	}
+}
+
