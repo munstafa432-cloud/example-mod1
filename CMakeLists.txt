@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
 
-# This line tells the computer where to find Geode
+# Add this line to tell CMake where Geode is located
 list(APPEND CMAKE_PREFIX_PATH $ENV{GEODE_SDK})
 
 project(MyMod)
